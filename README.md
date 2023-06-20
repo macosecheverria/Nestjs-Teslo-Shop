@@ -10,11 +10,13 @@
 4. Cambiar las variables de entorno
 5. Levantar la base de datos
    `docker-compose u -d`
-6. Ejecutar Seed
+
+6. Levantar `npm run start:dev` o `yarn start:dev`
+
+7. Ejecutar Seed
 
 ```
 http://localhost:3000/api/seed
 
 ```
 
-7. Levantar `npm run start:dev` o `yarn start:dev`
